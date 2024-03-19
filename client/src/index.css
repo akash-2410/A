@@ -30,3 +30,32 @@ i:hover{
   color:aliceblue;
   font-size: 20px;
 }
+
+/*loader animation*/
+.a{
+  animation: a 1s infinite;
+}
+
+@keyframes a{ 
+  0%{opacity: 0.5;}
+  50%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0.5;
+  }
+}
+.p{
+  animation: a 1s infinite;
+}
+@keyframes p{ 
+  0%{opacity: 0.5;}
+  50%{
+    opacity:0.5 ;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+
