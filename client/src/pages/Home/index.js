@@ -7,6 +7,7 @@ import Projects from "./Projects";
 import Courses from "./Courses";
 import Contact from "./Contact";
 import Footer from "./Footer";
+import Sider from "./Sider";
 
 const Home = () => {
   return (
@@ -20,6 +21,7 @@ const Home = () => {
         <Courses/>
         <Contact/>
         <Footer/>
+        <Sider/>
       </div>
     </div>
   );
