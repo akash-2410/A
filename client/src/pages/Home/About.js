@@ -26,10 +26,8 @@ function About() {
         </div>
         <div className="flex flex-col gap-5 w-1/2 sm:w-full">
           <p className="text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-            consectetur, quaerat molestiae qui explicabo in nisi necessitatibus
-            quibusdam numquam omnis delectus incidunt! Facere accusamus labore
-            unde neque nisi sit autem.
+           Hi, I'm a MERN stack Developer,currently enrolled at Birla Institute of Technology, Mesra. 
+           My enthusiasm lies in harnessing the latest technologies to craft innovative and scalable web applications. With a keen interest in frontend and backend development, I continuously seek to expand my knowledge and expertise in building robust digital solutions.
           </p>
           <p className="text-white">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab

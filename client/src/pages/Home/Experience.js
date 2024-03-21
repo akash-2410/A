@@ -7,7 +7,7 @@ const Experience = () => {
 
   return (
     <div>
-      <SectionTitle title="Expierences" />
+      <SectionTitle title="Experiences" />
       <div className="flex py-10 gap-20 sm:flex-col">
         <div className="flex flex-col gap-10 border-l-2 border-[#136b468c] w-1/3 sm:flex-row sm:overflow-x-scroll sm:w-full">
           {Experiences.map((experience, index) => (
